@@ -1,0 +1,22 @@
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Form1.resources
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Properties.Resources.resources
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.GenerateResource.cache
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\welly\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Form1.resources
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Properties.Resources.resources
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.GenerateResource.cache
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\welly\OneDrive\Área de Trabalho\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
